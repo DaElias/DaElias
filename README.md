@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaElias
 - 📖 I’m student of system engineer 
-- 🌱 I’m currently learning machine learning and other things xD...
+- 🌱 I’m currently learning Lachine-Learning/Front-dEnd/Back-End  and other things xD...
 
 <!---
 DaElias/DaElias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
