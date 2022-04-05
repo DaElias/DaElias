@@ -9,7 +9,7 @@
  
  ##Info
  [![](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-cerchiaro-401107213/)
- [![](✉️ Info )](davidcerchiaro8@gmail.com)
+ ✉️ Info (davidcerchiaro8@gmail.com)
 <!---
 DaElias/DaElias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
