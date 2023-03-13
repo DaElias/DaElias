@@ -9,10 +9,10 @@
  
  ## Contact
  [![](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-cerchiaro-401107213/)
- ![](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white)![](https://img.shields.io/badge/-iTzSu%20%232241-blue)
 
+![](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white)![](https://img.shields.io/badge/-iTzSu%20%232241-blue)
+ ✉️  davidcerchiaro8@gmail.com
  
- ✉️ Email davidcerchiaro8@gmail.com
 <!---
 DaElias/DaElias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
