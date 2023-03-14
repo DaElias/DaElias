@@ -23,7 +23,8 @@
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Josee9988's LinkedIn">
     </a>
-	<a>![](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white)![](https://img.shields.io/badge/-iTzSu%20%232241-blue)
+	<a>
+		![](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white) ![](https://img.shields.io/badge/-iTzSu%20%232241-blue)
 	</a>
 </div>
 
