@@ -31,7 +31,6 @@
 </div>
 
 <p align="center" width="300">
-	![](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white) ![](https://img.shields.io/badge/-iTzSu%20%232241-blue)
 </p>
 
 
