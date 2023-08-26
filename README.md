@@ -27,13 +27,18 @@
 - ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) Express.js
 - ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) Java
 - ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) Spring
+- ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Python
+
 
 ### Databases
 - ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) MySQL
+- ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) MongoDB
 
 ### Other
 - ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) Unity
 - ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) Next.js
+- ![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) Prisma
+
 
 ## **How to reach me 📫**
 
