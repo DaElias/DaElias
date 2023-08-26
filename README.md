@@ -7,6 +7,7 @@
 
 <!-- Introducción -->
 - 📖 I’m a student of System Engineering.
+
 - 🌱 I’m currently learning Back-End development.
 
  
