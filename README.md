@@ -1,7 +1,7 @@
 
 <!-- Encabezado -->
 <p align="center">
-    <img align="center" width="200" src="" />
+<!--     <img align="center" width="200" src="" /> -->
     <h3 align="center">👋 Hi, I’m David Cerchiaro🔥</h3>
 </p>
 
